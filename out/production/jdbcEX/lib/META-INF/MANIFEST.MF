@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: postgresql-9.3-1102.jdbc41.jar
+
